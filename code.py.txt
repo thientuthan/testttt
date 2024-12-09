@@ -1,0 +1,5 @@
+# main.py
+# Entry point cho game Age of War
+def main():
+    print("Welcome to Age of War!")
+jkjh
